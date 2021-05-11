@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pilatopus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Miko Cabes
+- 👀 I’m interested in Web Developing and Systems development with Java
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking for a mentor
 - 📫 How to reach me cabesmiko@gmail.com
 
 <!---
