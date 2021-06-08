@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miko Cabes
-- 👀 I’m interested in Web Developing and Systems development with Java
+- 👀 I’m interested in Web Developing and System development with Java
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking for a mentor
 - 📫 How to reach me cabesmiko@gmail.com
